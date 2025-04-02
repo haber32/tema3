@@ -1,0 +1,14 @@
+AMEAÇAS: quando inspecionado não ter criptografia em senha/ quando logado com a senha, logando novamente, não funciona/ quando esquece a senha não ter como recuperar/ a verificação para humano é falha
+
+PROBABILIDADE: BAIXA/ ALTA/ MÉDIA/ MÉDIA
+
+IMPACTO: roubo de dados/ fazer o usuário logar com outra senha/ perder o dado/ suspeito a vírus e malwares
+
+ESTRATÉGIA RESPOSTAS: criptografar a senha/ logar outro usuário/ criar um sistema de backup/ ter a verificação por imagem.
+              
+              
+
+
+
+
+
